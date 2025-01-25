@@ -1,2 +1,4 @@
 # Research_Internship--Covid-AI-
-Data preprocessing, forecasting model Implementation such as LSTM, Neural Network and Random forest regressor model.
+• Led team in developing predictive forecasting model with result-focused visualization.
+• Enhanced model reliability through rigorous evaluation and improvements.
+• Collaborated on creating insightful Power BI reports, providing valuable feature insights.
